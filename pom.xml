@@ -65,14 +65,6 @@
 
     <url>https://github.com/jenkinsci/skip-cron-rebuild-plugin</url>
 
-    <developers>
-        <developer>
-            <id>theirix</id>
-            <name>Eugene Seliverstov</name>
-            <email>theirix@gmail.com</email>
-        </developer>
-    </developers>
-
     <scm>
         <connection>scm:git:https://github.com/jenkinsci/skip-cron-rebuild-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/skip-cron-rebuild-plugin.git</developerConnection>
