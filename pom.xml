@@ -21,8 +21,7 @@
     </properties>
 
     <name>Skip Cron Rebuild</name>
-    <description>Allows to skip tag rebuild on cron trigger</description>
-
+    <description>Allows to skip tag rebuild when a job is triggered by a cron trigger</description>
 
     <dependencyManagement>
         <dependencies>
@@ -54,7 +53,6 @@
             <artifactId>scm-api</artifactId>
         </dependency>
     </dependencies>
-
 
     <licenses>
         <license>
